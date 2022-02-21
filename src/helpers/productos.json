@@ -1,0 +1,102 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Limon con semilla",
+            "preciom": "$26.82/kg",
+            "preciov": "$39.9/kg",
+            "precio": 26.82,
+            "descuento": "32% dto.",
+            "categoria": "oferta",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312103/examen/Name_Limon_j75ruj.svg"
+        },
+        {
+            "id": 2,
+            "nombre": "Tomate",
+            "preciom": "$21.79/kg",
+            "preciov": "$32.9/kg",
+            "precio": 21.79,
+            "descuento": "32% dto.",
+            "categoria": "oferta",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312105/examen/Name_Tomate_kosh37.svg"
+        },
+        {
+            "id": 3,
+            "nombre": "Aguacate Hass",
+            "preciom": "$56.8/kg",
+            "preciov": "$69.9/kg",
+            "precio": 56.8,
+            "descuento": "18% dto.",
+            "categoria": "oferta",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312101/examen/Name_Aguacate_laergy.svg"
+        },
+        {
+            "id": 4,
+            "nombre": "Nopal Limpio",
+            "preciom": "$25.8/kg",
+            "preciov": "$29.9/kg",
+            "precio": 25.8,
+            "descuento": "13% dto.",
+            "categoria": "oferta",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312104/examen/Name_Nopal_xd9xae.svg"
+        },
+        {
+            "id": 5,
+            "nombre": "Tomate verde sin cascara",
+            "preciom": "$22.89/kg",
+            "preciov": "$24.9/kg",
+            "precio": 22.89,
+            "descuento": "8% dto.",
+            "categoria": "oferta",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312105/examen/Name_Tomate_verde_kbtzk5.svg"
+        },
+        {
+            "id": 6,
+            "nombre": "San Rafael pechuga de pavo",
+            "preciom": "$62.5/kg",
+            "precio": 62.5,
+            "descuento": "250 g ($0.25/gr)",
+            "categoria": "popular",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312105/examen/Name_Pechuga_de_pavo_muukda.svg"
+        },
+        {
+            "id": 7,
+            "nombre": "Bimbo Pan Blanco Grande",
+            "preciom": "$38.9/kg",
+            "precio": 38.9,
+            "descuento": "680 g ($0.6/gr)",
+            "categoria": "popular",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312109/examen/Name_Pan_Bimbo_vrfnpl.svg"
+        },
+        {
+            "id": 8,
+            "nombre": "Mc Cormick Mayonesa",
+            "preciom": "$48.5/kg",
+            "precio": 48.5,
+            "descuento": "507 g ($0.1/gr)",
+            "categoria": "popular",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312101/examen/Name_Mc_Cormick_Mayonesa_dqndb8.svg"
+        },
+        {
+            "id": 9,
+            "nombre": "Colgate Pasta Dental Triple Familiar 2 U",
+            "preciom": "$35.5/kg",
+            "precio": 35.5,
+            "descuento": "125 ml ($0.28/ml) ",
+            "categoria": "popular",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312108/examen/Name_Colgate_jwse9c.svg"
+        },
+        {
+            "id": 10,
+            "nombre": "Huevos San Juan",
+            "preciom": "$37.5/kg",
+            "precio": 37.5,
+            "descuento": "18 Und ($2.08/u)",
+            "categoria": "popular",
+            "image": "https://res.cloudinary.com/donoutoby/image/upload/v1645312109/examen/Name_Huevos_svdxxk.svg"
+        }
+    ],
+    "carrito": [
+        {}
+    ]
+}

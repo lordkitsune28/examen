@@ -1,0 +1,10 @@
+.menu{
+    width: 95%;
+}
+
+.carrito{
+    width: 100px;
+    background-color: #0AC763;
+    border-radius: 10px;
+    color: white !important;
+}
